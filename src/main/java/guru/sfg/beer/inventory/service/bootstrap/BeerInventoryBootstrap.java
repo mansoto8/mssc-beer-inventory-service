@@ -15,13 +15,14 @@ import java.util.UUID;
 @Slf4j
 @RequiredArgsConstructor
 @Component
-public class BeerInvntoryBootstrap implements CommandLineRunner {
+public class BeerInventoryBootstrap
+    implements CommandLineRunner {
     public static final String BEER_1_UPC = "0631234200036";
     public static final String BEER_2_UPC = "0631234300019";
     public static final String BEER_3_UPC = "0083783375213";
-    public static final UUID BEER_1_UUID = UUID.fromString("0a818933-087d-47f2-ad83-2f986ed087eb");
-    public static final UUID BEER_2_UUID = UUID.fromString("a712d914-61ea-4623-8bd0-32c0f6545bfd");
-    public static final UUID BEER_3_UUID = UUID.fromString("026cc3c8-3a0c-4083-a05b-e908048c1b08");
+    public static final UUID BEER_1_UUID = UUID.fromString("72abdbcd-3d71-40a0-a729-44e5709e12df");
+    public static final UUID BEER_2_UUID = UUID.fromString("53be2068-6911-406f-8ba7-489ccd6b83b8");
+    public static final UUID BEER_3_UUID = UUID.fromString("17992d8c-a55f-477f-94c2-21287c78665b");
 
     private final BeerInventoryRepository beerInventoryRepository;
 
