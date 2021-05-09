@@ -1,9 +1,0 @@
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInventoryBootstrap.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
-/home/juan/training/spring-ms/monolith-to-microservice-impl/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
